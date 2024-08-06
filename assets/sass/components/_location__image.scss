@@ -1,0 +1,20 @@
+.location__coffee-machine{
+    width: 30em;
+    }
+    .location__beans-content{
+        width: 7em;
+        height: 28em;
+        overflow: hidden;
+        position: absolute;
+        z-index: 4;
+        top: 77.3%;
+        left: 58%;
+    }
+    .location__coffee-beans{
+        width: 150%;
+        height: auto;
+        transform: rotate(90deg);
+        left: 58%;
+        top: 0;
+        object-fit: cover;
+    }

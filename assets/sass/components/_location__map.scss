@@ -1,0 +1,13 @@
+.location__map--lightblue{
+    background-color: #3c91e6;
+    height: 12em;
+    width: 22em;
+    z-index: 1;
+}
+.location__map img{
+    width: 22em;
+position: absolute;
+    bottom: -10%;
+    left: 33%;
+z-index: 2;
+}

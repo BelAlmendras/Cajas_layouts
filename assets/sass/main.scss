@@ -5,8 +5,17 @@
 @import "components/navbar__logo";
 @import "components/navbar__menu";
 @import "components/navbar__button";
+@import "components/header__stats";
+ @import "components/header__arrow";
+ @import "components/header__title";
+ @import "components/location__description";
+ @import "components/location__map";
+ @import "components/location__image";
 //layouts
  @import "layouts/navbar";
+ @import "layouts/header";
+ @import "layouts/location";
+ @import "layouts/footer";
 //pages
 //themes
 //vendors

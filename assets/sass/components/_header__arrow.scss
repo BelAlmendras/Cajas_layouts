@@ -1,0 +1,22 @@
+.header__arrow--red{
+    display: flex;
+    position: absolute;
+    z-index: 4;
+    background-color: #e4572e;
+    color: white;
+    font-size: 3em;
+    padding: 2.5%;
+    left: 63%;
+    bottom: 5%;
+    font-weight: 900;
+}
+.header__arrow--yellow{
+    display: flex;
+    position: absolute;
+    z-index: 3;
+    background-color: #f5d63d;
+    left: 64%;
+    bottom: 0%;
+    width: 8.3%;
+    height: 27%;
+}

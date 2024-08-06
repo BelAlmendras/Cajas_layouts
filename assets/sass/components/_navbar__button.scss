@@ -1,0 +1,30 @@
+.navbar__button{
+    margin-right: 5%;
+    }
+    .navbar__button--white,
+    .navbar__button--green {
+        font-family: PT mono, monospace;
+        font-size: 1em;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .navbar__button--white{
+        background-color: white;
+        border:#a2a2a2 1px solid;
+        color: #a2a2a2;
+    }
+     .navbar__button--white:hover {
+        background-color: #fff;
+        border:#000 1px solid;
+        color: #000;
+    }
+    .navbar__button--green{
+        background-color: #4ca866;
+        border:#4ca866 1px solid;
+        color: white;
+    }
+    .navbar__button--green:hover {
+        background-color: #bddfc7;
+        border:#bddfc7 1px solid;
+        color: #454545;
+    }
